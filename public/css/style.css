@@ -1,0 +1,19 @@
+body {
+	background-color: red;
+}
+.navbar {
+	width: 100%;
+}
+.btn {
+	color: white;
+	background-color: transparent;
+	border-color: transparent;
+	width: 15%;
+	float: left;
+	margin-top: 0px; 
+	position: relative;
+}
+.content {
+	margin-top: 100px;
+	text-align: center;
+}

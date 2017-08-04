@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-marina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaMjames/Portfolio-Marina.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaMjames/Portfolio-Marina/issues"
+  },
+  "homepage": "https://github.com/MarinaMjames/Portfolio-Marina#readme",
+  "dependencies": {
+    "bootflat": "^2.0.4"
+  }
+}
